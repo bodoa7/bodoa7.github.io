@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a second-year PhD student in Computer Science and Technology from the Xi’an Research Institute of High Technology, with a focus on research in large language models (LLMs) and safety evaluation. 
 
-I am a student currently engaged in research on large language models (LLMs) and their safety evaluation. My work primarily focuses on enhancing the confidence expression ability of LLMs, using techniques such as cognitive diagnosis and experience-based learning approaches to improve model self-evaluation and calibration of safety confidence levels.
+
 
 ### Research Interests:
 - **Large Language Models (LLMs)**: Safety, confidence calibration, and performance enhancement.
@@ -18,6 +19,6 @@ I am a student currently engaged in research on large language models (LLMs) and
 
 
 ### Contact Information:
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: [nilximme@gmail.com]
+- **GitHub**: https://github.com/bodoa7
 
