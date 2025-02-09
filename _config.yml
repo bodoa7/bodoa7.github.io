@@ -23,13 +23,13 @@ repository               :
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "ZhangBo"
+  name             : "Zhang Bo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Dancing against the wind brings out the greatest strength"
   location         : "Earth"
   employer         : "Xi’an Research Institute of High Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nilximme@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
