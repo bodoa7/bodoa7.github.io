@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am currently a second-year PhD student in **Computer Science and Technology** at the [Xi’an Research Institute of High Technology], specializing in **large language models (LLMs)**, **machine learning**, and **AI safety evaluation**. My research focuses on developing robust methodologies and automated tools to assess the safety, trustworthiness, and performance of LLMs in real-world applications. I aim to bridge the gap between cutting-edge machine learning technologies and their safe deployment.
 
 ### Research Interests:
