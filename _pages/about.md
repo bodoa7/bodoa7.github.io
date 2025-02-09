@@ -16,16 +16,8 @@ I am a student currently engaged in research on large language models (LLMs) and
 - **Cognitive Diagnosis**: Methods for improving model confidence and trustworthiness.
 - **Model Robustness and Security**: Adversarial testing and ensuring model safety in real-world applications.
 
-### Current Projects:
-- **Confidence Calibration for LLMs**: Developing methods to improve model confidence through semantic mutation and self-consistency approaches.
-- **Automated Safety Evaluation Tools**: Designing and testing automated systems for real-time safety assessment of LLM-generated content across multiple security dimensions.
-- **Red Teaming**: Using reinforcement learning algorithms to test and strengthen the security and robustness of LLMs.
-
-Feel free to reach out for collaboration opportunities or any inquiries related to my research!
-
----
 
 ### Contact Information:
 - **Email**: [your.email@example.com]
 - **GitHub**: [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
