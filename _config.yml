@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default"
-title                    : "Zhang Bo / Personal Homepage"
+title                    : "Guotong Geng / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhang Bo"
+name                     : &name "Guotong Geng"
 description              : &description "personal description"
 url                      : https://bodoa7.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               :
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhang Bo"
+  name             : "Guotong Geng"
   pronouns         : # example: "she/her"  
   bio              : "Dancing against the wind brings out the greatest strength"
   location         : "Earth"
